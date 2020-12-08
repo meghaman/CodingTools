@@ -45,8 +45,11 @@
   <ItemGroup>
     <Compile Include="Algorithms\BinarySearch.cs" />
     <Compile Include="Algorithms\GraphSearch.cs" />
+    <Compile Include="Algorithms\Palindrome.cs" />
     <Compile Include="Amazon\SceneLength.cs" />
     <Compile Include="Amazon\TopCompetitors.cs" />
+    <Compile Include="BlueDot\BlueDotB.cs" />
+    <Compile Include="BlueDot\BlueDotA.cs" />
     <Compile Include="DataStructures\Heap.cs" />
     <Compile Include="DataStructures\LRUCache.cs" />
     <Compile Include="Algorithms\MergeSort.cs" />
